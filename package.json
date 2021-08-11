@@ -1,0 +1,19 @@
+{
+  "name": "jest-david-reporter",
+  "version": "1.0.0",
+  "description": "A Jest test reporter that displays an ascii image of David if there are no failed tests",
+  "main": "jest-david-reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpreutz/jest-david-reporter.git"
+  },
+  "author": "David Preutz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidpreutz/jest-david-reporter/issues"
+  },
+  "homepage": "https://github.com/davidpreutz/jest-david-reporter#readme"
+}
